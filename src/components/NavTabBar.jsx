@@ -8,13 +8,14 @@ function NavTabBar({setCurrentTab}) {
 				Skills
 			</button>
 
-			<button onClick={() => setCurrentTab('quests')}>
+			<button className="navButton" onClick={() => setCurrentTab('quests')}>
 				Quests
 			</button>
 
-			<button onClick={() => setCurrentTab('diaries')}>
+			<button className="navButton" onClick={() => setCurrentTab('diaries')}>
 				Diaries
 			</button>
+            <hr></hr>
 		</div>
 	)
 }

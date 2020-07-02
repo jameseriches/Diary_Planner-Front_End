@@ -8,15 +8,15 @@ function DataButtons() {
 	return (
 		<div className=''>
 			<button style={{backgroundColor: 'orange', margin: "2px" }} onClick={() => {}}>
-				LOAD
+				<div style={{margin: "10px" }}>LOAD</div>
 			</button>
 
 			<button style={{backgroundColor: 'green', margin: "2px" }} onClick={() => {}}>
-				SAVE
+				<div style={{margin: "10px" }} >SAVE</div>
 			</button>
 
 			<button style={{backgroundColor: 'red', margin: "2px" }} onClick={() => dispatchSkills({type: 'reset'})}>
-				RESET
+			<div style={{margin: "10px", textAlign:"left" }}>RESET</div>
 			</button>
 		</div>
 	)

@@ -16,12 +16,11 @@ function Skills() {
   }
   
   return (
-    <div className="flex">
-
-      <div data-name="row 1" className="skill-row">
-        <div data-name="cell1" className="flex">
-            <img className="" src="https://oldschool.tools/images/skills/attack.png" alt="attack"/>
-            <input
+    <div className="">
+      <div data-name="row1" className= "skill_row">
+        <div data-name="cell1" className="cell_one">
+            <img className="skill-img" src="https://oldschool.tools/images/skills/attack.png" alt="attack"/>
+            <input className="skill_input"
                 max={99}
                 min={1}
                 value={skillState.attack} 
@@ -29,9 +28,9 @@ function Skills() {
                 type='number'
             />
         </div>
-        <div data-name="cell2" className="flex">
-            <img src="https://oldschool.tools/images/skills/hitpoints.png" alt="hitpoints"/>
-            <input
+        <div data-name="cell2" className="cell_two">
+            <img className="skill-img" src="https://oldschool.tools/images/skills/hitpoints.png" alt="hitpoints"/>
+            <input className="skill_input" 
                 max={99}
                 min={10}
                 value={skillState.hitpoints} 
@@ -39,9 +38,9 @@ function Skills() {
                 type='number'
             />
         </div>
-        <div data-name="cell3" className="flex">
-            <img src="https://oldschool.tools/images/skills/mining.png" alt="mining"/>
-            <input
+        <div data-name="cell3" className="cell_three">
+            <img className="skill-img" src="https://oldschool.tools/images/skills/mining.png" alt="mining"/>
+            <input className="skill_input"
                 max={99} 
                 min={1}
                 value={skillState.mining} 
@@ -49,11 +48,13 @@ function Skills() {
                 type='number'
             />
         </div>
+
+        <hr></hr>
       </div>
-      <div data-name="row2">
-        <div data-name="cell1" className="flex">
-            <img src="https://oldschool.tools/images/skills/strength.png" alt="strength"/>
-            <input
+      <div data-name="row2" className= "skill_row">
+        <div data-name="cell1" className="cell_one">
+            <img className="skill-img" src="https://oldschool.tools/images/skills/strength.png" alt="strength"/>
+            <input className="skill_input"
                 max={99} 
                 min={1}
                 value={skillState.strength} 
@@ -61,9 +62,9 @@ function Skills() {
                 type='number'
             />
         </div>
-        <div data-name="cell2" className="flex">
-            <img src="https://oldschool.tools/images/skills/agility.png" alt="agility"/>
-            <input
+        <div data-name="cell2" className="cell_two">
+            <img className="skill-img" src="https://oldschool.tools/images/skills/agility.png" alt="agility"/>
+            <input className="skill_input"
                 max={99} 
                 min={1}
                 value={skillState.agility} 
@@ -71,9 +72,9 @@ function Skills() {
                 type='number'
             />
         </div>
-        <div data-name="cell3" className="flex">
-            <img src="https://oldschool.tools/images/skills/smithing.png" alt="smithing"/>
-            <input
+        <div data-name="cell3" className="cell_three">
+            <img className="skill-img" src="https://oldschool.tools/images/skills/smithing.png" alt="smithing"/>
+            <input className="skill_input"
                 max={99} 
                 min={1}
                 value={skillState.smithing} 
@@ -81,11 +82,12 @@ function Skills() {
                 type='number'
             />
         </div>
+        <hr></hr>
       </div>
-      <div data-name="row3">
-        <div data-name="cell1" className="flex">
-            <img src="https://oldschool.tools/images/skills/defence.png" alt="defence"/>
-            <input
+      <div data-name="row3" className= "skill_row">
+        <div data-name="cell1" className="cell_one">
+            <img className="skill-img" src="https://oldschool.tools/images/skills/defence.png" alt="defence"/>
+            <input className="skill_input"
                 max={99} 
                 min={1}
                 value={skillState.defence} 
@@ -93,9 +95,9 @@ function Skills() {
                 type='number'
             />
         </div>
-        <div data-name="cell2" className="flex">
-            <img src="https://oldschool.tools/images/skills/herblore.png" alt="herblore"/>
-            <input
+        <div data-name="cell2" className="cell_two">
+            <img className="skill-img" src="https://oldschool.tools/images/skills/herblore.png" alt="herblore"/>
+            <input className="skill_input"
                 max={99} 
                 min={1}
                 value={skillState.herblore} 
@@ -103,9 +105,9 @@ function Skills() {
                 type='number'
             />
         </div>
-        <div data-name="cell3" className="flex">
-            <img src="https://oldschool.tools/images/skills/fishing.png" alt="fishing"/>
-            <input
+        <div data-name="cell3" className="cell_three">
+            <img className="skill-img" src="https://oldschool.tools/images/skills/fishing.png" alt="fishing"/>
+            <input className="skill_input"
                 max={99} 
                 min={1}
                 value={skillState.fishing} 
@@ -113,11 +115,12 @@ function Skills() {
                 type='number'
             />
         </div>
+        <hr></hr>
       </div>
-      <div data-name="row4">
-        <div data-name="cell1" className="flex">
-            <img src="https://oldschool.tools/images/skills/ranged.png" alt="ranged"/>
-            <input
+      <div data-name="row4" className= "skill_row">
+        <div data-name="cell1" className="cell_one">
+            <img className="skill-img" src="https://oldschool.tools/images/skills/ranged.png" alt="ranged"/>
+            <input className="skill_input"
                 max={99} 
                 min={1}
                 value={skillState.ranged} 
@@ -125,9 +128,9 @@ function Skills() {
                 type='number'
             />
         </div>
-        <div data-name="cell2" className="flex">
-            <img src="https://oldschool.tools/images/skills/thieving.png" alt="thieving"/>
-            <input
+        <div data-name="cell2" className="cell_two">
+            <img className="skill-img" src="https://oldschool.tools/images/skills/thieving.png" alt="thieving"/>
+            <input className="skill_input"
                 max={99} 
                 min={1}
                 value={skillState.thieving} 
@@ -135,9 +138,9 @@ function Skills() {
                 type='number'
             />
         </div>
-        <div data-name="cell3" className="flex">
-            <img src="https://oldschool.tools/images/skills/cooking.png" alt="cooking"/>
-            <input
+        <div data-name="cell3" className="cell_three">
+            <img className="skill-img" src="https://oldschool.tools/images/skills/cooking.png" alt="cooking"/>
+            <input className="skill_input"
                 max={99} 
                 min={1}
                 value={skillState.cooking} 
@@ -145,11 +148,12 @@ function Skills() {
                 type='number'
             />
         </div>
+        <hr></hr>
       </div>
-      <div data-name="row5">
-        <div data-name="cell1" className="flex">
-            <img src="https://oldschool.tools/images/skills/prayer.png" alt="prayer"/>
-            <input
+      <div data-name="row5" className= "skill_row">
+        <div data-name="cell1" className="cell_one">
+            <img className="skill-img" src="https://oldschool.tools/images/skills/prayer.png" alt="prayer"/>
+            <input className="skill_input"
                 max={99} 
                 min={1}
                 value={skillState.prayer} 
@@ -157,9 +161,9 @@ function Skills() {
                 type='number'
             />
         </div>
-        <div data-name="cell2" className="flex">
-            <img src="https://oldschool.tools/images/skills/crafting.png" alt="crafting"/>
-            <input
+        <div data-name="cell2" className="cell_two">
+            <img className="skill-img" src="https://oldschool.tools/images/skills/crafting.png" alt="crafting"/>
+            <input className="skill_input"
                 max={99} 
                 min={1}
                 value={skillState.crafting} 
@@ -167,9 +171,9 @@ function Skills() {
                 type='number'
             />
         </div>
-        <div data-name="cell3" className="flex">
-            <img src="https://oldschool.tools/images/skills/firemaking.png" alt="firemaking"/>
-            <input
+        <div data-name="cell3" className="cell_three">
+            <img className="skill-img" src="https://oldschool.tools/images/skills/firemaking.png" alt="firemaking"/>
+            <input className="skill_input"
                 max={99} 
                 min={1}
                 value={skillState.firemaking} 
@@ -177,11 +181,12 @@ function Skills() {
                 type='number'
             />
         </div>
+        <hr></hr>
       </div>
-      <div data-name="row6">
-        <div data-name="cell1" className="flex">
-            <img src="https://oldschool.tools/images/skills/magic.png" alt="magic"/>
-            <input
+      <div data-name="row6" className= "skill_row">
+        <div data-name="cell1" className="cell_one">
+            <img className="skill-img" src="https://oldschool.tools/images/skills/magic.png" alt="magic"/>
+            <input className="skill_input"
                 max={99} 
                 min={1}
                 value={skillState.magic} 
@@ -189,9 +194,9 @@ function Skills() {
                 type='number'
             />
         </div>
-        <div data-name="cell2" className="flex">
-            <img src="https://oldschool.tools/images/skills/fletching.png" alt="fletching"/>
-            <input
+        <div data-name="cell2" className="cell_two">
+            <img className="skill-img" src="https://oldschool.tools/images/skills/fletching.png" alt="fletching"/>
+            <input className="skill_input"
                 max={99} 
                 min={1}
                 value={skillState.fletching} 
@@ -199,9 +204,9 @@ function Skills() {
                 type='number'
             />
         </div>
-        <div data-name="cell3" className="flex">
-            <img src="https://oldschool.tools/images/skills/woodcutting.png" alt="woodcutting"/>
-            <input
+        <div data-name="cell3" className="cell_three">
+            <img className="skill-img" src="https://oldschool.tools/images/skills/woodcutting.png" alt="woodcutting"/>
+            <input className="skill_input"
                 max={99} 
                 min={1}
                 value={skillState.woodcutting} 
@@ -209,11 +214,12 @@ function Skills() {
                 type='number'
             />
         </div>
+        <hr></hr>
       </div>
-      <div data-name="row7">
-        <div data-name="cell1" className="flex">
-            <img src="https://oldschool.tools/images/skills/runecrafting.png" alt="runecrafting"/>
-            <input
+      <div data-name="row7" className= "skill_row">
+        <div data-name="cell1" className="cell_one">
+            <img className="skill-img" src="https://oldschool.tools/images/skills/runecrafting.png" alt="runecrafting"/>
+            <input className="skill_input"
                 max={99} 
                 min={1}
                 value={skillState.runecrafting} 
@@ -221,9 +227,9 @@ function Skills() {
                 type='number'
             />
         </div>
-        <div data-name="cell2" className="flex">
-            <img src="https://oldschool.tools/images/skills/slayer.png" alt="slayer"/>
-            <input
+        <div data-name="cell2" className="cell_two">
+            <img className="skill-img" src="https://oldschool.tools/images/skills/slayer.png" alt="slayer"/>
+            <input className="skill_input"
                 max={99} 
                 min={1}
                 value={skillState.slayer} 
@@ -231,9 +237,9 @@ function Skills() {
                 type='number'
             />
         </div>
-        <div data-name="cell3" className="flex">
-            <img src="https://oldschool.tools/images/skills/farming.png" alt="farming"/>
-            <input
+        <div data-name="cell3" className="cell_three">
+            <img className="skill-img" src="https://oldschool.tools/images/skills/farming.png" alt="farming"/>
+            <input className="skill_input"
                 max={99} 
                 min={1}
                 value={skillState.farming} 
@@ -241,11 +247,12 @@ function Skills() {
                 type='number'
             />
         </div>
+        <hr></hr>
       </div>
-      <div data-name="row8">
-        <div data-name="cell1" className="flex">
-            <img src="https://oldschool.tools/images/skills/construction.png" alt="construction"/>
-            <input
+      <div data-name="row8" className= "skill_row">
+        <div data-name="cell1" className="cell_one">
+            <img className="skill-img" src="https://oldschool.tools/images/skills/construction.png" alt="construction"/>
+            <input className="skill_input"
                 max={99} 
                 min={1}
                 value={skillState.construction} 
@@ -253,9 +260,9 @@ function Skills() {
                 type='number'
             />
         </div>
-        <div data-name="cell2" className="flex">
-            <img src="https://oldschool.tools/images/skills/hunter.png" alt="hunter"/>
-            <input
+        <div data-name="cell2" className="cell_two">
+            <img className="skill-img" src="https://oldschool.tools/images/skills/hunter.png" alt="hunter"/>
+            <input className="skill_input"
                 max={99} 
                 min={1}
                 value={skillState.hunter} 
