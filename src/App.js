@@ -1,26 +1,33 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+
+import DataButtons from './components/DataButtons'
+import Tabs from './components/Tabs'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="body">
+    <div style={{marginTop: '20px', marginLeft: '20px'}}>
+      <h1 style={{textAlign: 'center', }}>Quest and Diary Planner</h1>
+      <div style={{textAlign: 'center', }}>
+        Our OSRS Quest Planner allows you to determine what quests are available
+        to you. You can enter your skill levels, check off the quests you've
+        completed, and see what quests are currently available to you. Use
+        various options on the quest calculator to help sort and filter quests,
+        making it easy for you to determine what quests to do next!
+      </div>
+      <div style={{textAlign: 'right', }}>
+      <DataButtons  />
+      <small>
+        This will save/load the information you submit into the planner.
+      </small>
+      </div>
+      <div>
+        <Tabs />
+        </div>
+      
     </div>
-  );
+    </div>
+  )
 }
 
-export default App;
+export default App

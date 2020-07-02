@@ -1,0 +1,1874 @@
+[
+	{
+		"title": "Animal Magnetism",
+		"difficulty": "Intermediate",
+		"length": "Medium-Long",
+		"questRequirements": [
+			"The Restless Ghost",
+			"Ernest the Chicken",
+			"Priest in Peril"
+		],
+		"skillRequirements": [
+			"18 Slayer",
+			"19 Crafting",
+			"30 Ranged",
+			"35 Woodcutting"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Another Slice of H.A.M.",
+		"difficulty": "Intermediate",
+		"length": "Medium",
+		"questRequirements": [
+			"Death to the Dorgeshuun",
+			"The Giant Dwarf",
+			"The Dig Site",
+			"Druidic Ritual"
+		],
+		"skillRequirements": [
+			"15 Attack",
+			"25 Prayer"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "The Ascent of Arceuus",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [
+			"Client of Kourend"
+		],
+		"skillRequirements": [
+			"12 Hunter"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Between a Rock...",
+		"difficulty": "Experienced",
+		"length": "Medium-Long",
+		"questRequirements": [
+			"Dwarf Cannon",
+			"Fishing Contest"
+		],
+		"skillRequirements": [
+			"30 Defence",
+			"40 Mining",
+			"50 Smithing"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Big Chompy Bird Hunting",
+		"difficulty": "Intermediate",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [
+			"5 Fletching",
+			"30 Cooking",
+			"30 Ranged"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Biohazard",
+		"difficulty": "Novice",
+		"length": "Medium",
+		"questRequirements": [
+			"Plague City"
+		],
+		"skillRequirements": [],
+		"reward": "3 QP"
+	},
+	{
+		"title": "Black Knights' Fortress",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "3 QP",
+		"qpRequirment": "12 QP"
+	},
+	{
+		"title": "Bone Voyage",
+		"difficulty": "Intermediate",
+		"length": "Short-Medium",
+		"questRequirements": [
+			"The Dig Site"
+		],
+		"skillRequirements": [],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Cabin Fever",
+		"difficulty": "Experienced",
+		"length": "Medium",
+		"questRequirements": [
+			"Pirates's Treasure",
+			"Rum Deal",
+			"Priest in Peril"
+		],
+		"skillRequirements": [
+			"42 Agility",
+			"45 Crafting",
+			"50 Smithing",
+			"40 Ranged"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Client of Kourend",
+		"difficulty": "Novice",
+		"length": "Medium",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Clock Tower",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Cold War",
+		"difficulty": "Intermediate",
+		"length": "Medium-Long",
+		"questRequirements": [],
+		"skillRequirements": [
+			"10 Hunter",
+			"30 Agility",
+			"30 Crafting",
+			"34 Construction",
+			"15 Thieving"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Contact!",
+		"difficulty": "Master",
+		"length": "Medium",
+		"questRequirements": [
+			"Prince Ali Rescue",
+			"Icthlarin's Little Helper"
+		],
+		"skillRequirements": [],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Cook's Assistant",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "1 QP"
+	},
+	{
+		"title": "The Corsair Curse",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Creature of Fenkenstrain",
+		"difficulty": "Intermediate",
+		"length": "Medium",
+		"questRequirements": [
+			"Priest in Peril",
+			"The Restless Ghost"
+		],
+		"skillRequirements": [
+			"20 Crafting",
+			"25 Thieving"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Darkness of Hallowvale",
+		"difficulty": "Intermediate",
+		"length": "Very Long",
+		"questRequirements": [
+			"In Aid of the Myreque"
+		],
+		"skillRequirements": [
+			"5 Construction",
+			"20 Mining",
+			"22 Thieving",
+			"26 Agility",
+			"32 Crafting",
+			"33 Magic",
+			"40 Strength"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Death Plateau",
+		"difficulty": "Novice",
+		"length": "Medium",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Death to the Dorgeshuun",
+		"difficulty": "Intermediate",
+		"length": "Medium",
+		"questRequirements": [
+			"The Lost Tribe"
+		],
+		"skillRequirements": [
+			"23 Agility",
+			"23 Thieving"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Demon Slayer",
+		"difficulty": "Novice",
+		"length": "Medium",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "3 QP"
+	},
+	{
+		"title": "The Depths of Despair",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [
+			"Client of Kourend"
+		],
+		"skillRequirements": [
+			"18 Agility"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Desert Treasure",
+		"difficulty": "Master",
+		"length": "Very Long",
+		"questRequirements": [
+			"The Dig Site",
+			"Temple of Ikov",
+			"The Tourist Trap",
+			"Troll Stronghold",
+			"Priest in Peril",
+			"Waterfall Quest"
+		],
+		"skillRequirements": [
+			"53 Thieving",
+			"50 Firemaking",
+			"10 Slayer",
+			"50 Magic"
+		],
+		"reward": "3 QP"
+	},
+	{
+		"title": "Devious Minds",
+		"difficulty": "Experienced",
+		"length": "Short",
+		"questRequirements": [
+			"Wanted",
+			"Troll Stronghold",
+			"Doric's Quest"
+		],
+		"skillRequirements": [
+			"65 Smithing",
+			"50 Runecrafting",
+			"50 Fletching"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "The Dig Site",
+		"difficulty": "Intermediate",
+		"length": "Long",
+		"questRequirements": [
+			"Druidic Ritual"
+		],
+		"skillRequirements": [
+			"10 Agility",
+			"10 Herblore",
+			"25 Thieving"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Doric's Quest",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [
+			"15 Mining"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Dragon Slayer",
+		"difficulty": "Experienced",
+		"length": "Long",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "2 QP",
+		"qpRequirment": "32 QP"
+	},
+	{
+		"title": "Dragon Slayer II",
+		"difficulty": "Grandmaster",
+		"length": "Very Long",
+		"questRequirements": [
+			"Legends' Quest",
+			"Dream Mentor",
+			"A Tail of Two Cats",
+			"Animal Magnetism",
+			"Ghosts Ahoy",
+			"Bone Voyage",
+			"Client of Kourend"
+		],
+		"skillRequirements": [
+			"75 Magic",
+			"70 Smithing",
+			"68 Mining",
+			"62 Crafting",
+			"60 Agility",
+			"60 Thieving",
+			"50 Construction",
+			"50 Hitpoints"
+		],
+		"reward": "5 QP",
+		"qpRequirment": "200 QP"
+	},
+	{
+		"title": "Dream Mentor",
+		"difficulty": "Master",
+		"length": "Short-Medium",
+		"questRequirements": [
+			"Lunar Diplomacy",
+			"Eadgar's Ruse"
+		],
+		"skillRequirements": [
+			"85 Combat"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Druidic Ritual",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "4 QP"
+	},
+	{
+		"title": "Dwarf Cannon",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Eadgar's Ruse",
+		"difficulty": "Experienced",
+		"length": "Medium-Long",
+		"questRequirements": [
+			"Druidic Ritual",
+			"Troll Stronghold"
+		],
+		"skillRequirements": [
+			"31 Herblore"
+		],
+		"reward": "1 QP"
+	},
+
+
+	{
+		"title": "Eagles' Peak",
+		"difficulty": "Novice",
+		"length": "Medium",
+		"questRequirements": [],
+		"skillRequirements": [
+			"27 Hunter"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Elemental Workshop I",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [
+			"20 Mining",
+			"20 Smithing",
+			"20 Crafting"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Elemental Workshop II",
+		"difficulty": "Intermediate",
+		"length": "Medium",
+		"questRequirements": [
+			"Elemental Workshop I"
+		],
+		"skillRequirements": [
+			"20 Magic",
+			"30 Smithing"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Enakhra's Lament",
+		"difficulty": "Experienced",
+		"length": "Medium",
+		"questRequirements": [],
+		"skillRequirements": [
+			"50 Crafting",
+			"45 Firemaking",
+			"43 Prayer",
+			"39 Magic"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Enlightened Journey",
+		"difficulty": "Intermediate",
+		"length": "Short-Long",
+		"questRequirements": [],
+		"skillRequirements": [
+			"20 Firemaking",
+			"30 Farming",
+			"36 Crafting"
+		],
+		"reward": "1 QP",
+		"qpRequirment": "20 QP"
+	},
+	{
+		"title": "Ernest the Chicken",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "4 QP"
+	},
+	{
+		"title": "The Eyes of Glouphrie",
+		"difficulty": "Intermediate",
+		"length": "Medium-Long",
+		"questRequirements": [
+			"The Grand Tree"
+		],
+		"skillRequirements": [
+			"5 Construction",
+			"46 Magic"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Fairytale I - Growing Pains",
+		"difficulty": "Experienced",
+		"length": "Long",
+		"questRequirements": [
+			"Lost City",
+			"Nature Spirit"
+		],
+		"skillRequirements": [],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Fairytale II - Cure a Queen",
+		"difficulty": "Experienced",
+		"length": "Short-Medium",
+		"questRequirements": [
+			"Fairytale I - Growing Pains"
+		],
+		"skillRequirements": [
+			"40 Thieving",
+			"49 Farming",
+			"57 Herblore"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Family Crest",
+		"difficulty": "Experienced",
+		"length": "Medium",
+		"questRequirements": [],
+		"skillRequirements": [
+			"40 Mining",
+			"40 Smithing",
+			"59 Magic",
+			"40 Crafting"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "The Feud",
+		"difficulty": "Intermediate",
+		"length": "Medium",
+		"questRequirements": [],
+		"skillRequirements": [
+			"30 Thieving"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Fight Arena",
+		"difficulty": "Experienced",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Fishing Contest",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [
+			"10 Fishing"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Forgettable Tale...",
+		"difficulty": "Intermediate",
+		"length": "Long",
+		"questRequirements": [
+			"The Giant Dwarf",
+			"Fishing Contest"
+		],
+		"skillRequirements": [
+			"22 Cooking",
+			"17 Farming"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "The Forsaken Tower",
+		"difficulty": "Novice",
+		"length": "Medium",
+		"questRequirements": [
+			"Client of Kourend"
+		],
+		"skillRequirements": [],
+		"reward": "1 QP"
+	},
+	{
+		"title": "The Fremennik Exiles",
+		"difficulty": "Master",
+		"length": "Medium",
+		"questRequirements": [
+			"The Fremennik Isles",
+			"Lunar Diplomacy",
+			"Mountain Daughter",
+			"Heroes' Quest"
+		],
+		"skillRequirements": [
+			"65 Crafting",
+			"60 Slayer",
+			"60 Smithing",
+			"60 Fishing",
+			"55 Runecrafting"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "The Fremennik Isles",
+		"difficulty": "Experienced",
+		"length": "Long",
+		"questRequirements": [
+			"The Fremennik Trials"
+		],
+		"skillRequirements": [
+			"20 Construction",
+			"40 Agility"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "The Fremennik Trials",
+		"difficulty": "Intermediate",
+		"length": "Long",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "3 QP"
+	},
+	{
+		"title": "Garden of Tranquillity",
+		"difficulty": "Intermediate",
+		"length": "Very Long",
+		"questRequirements": [
+			"Creature of Fenkenstrain"
+		],
+		"skillRequirements": [
+			"25 Farming"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Gertrude's Cat",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Ghosts Ahoy",
+		"difficulty": "Intermediate",
+		"length": "Medium-Long",
+		"questRequirements": [
+			"The Restless Ghost",
+			"Priest in Peril"
+		],
+		"skillRequirements": [
+			"25 Agility",
+			"20 Cooking"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "The Giant Dwarf",
+		"difficulty": "Intermediate",
+		"length": "Medium-Long",
+		"questRequirements": [],
+		"skillRequirements": [
+			"12 Crafting",
+			"16 Firemaking",
+			"33 Magic",
+			"14 Thieving"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Goblin Diplomacy",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "5 QP"
+	},
+	{
+		"title": "The Golem",
+		"difficulty": "Intermediate",
+		"length": "Medium",
+		"questRequirements": [],
+		"skillRequirements": [
+			"20 Crafting",
+			"25 Thieving"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "The Grand Tree",
+		"difficulty": "Experienced",
+		"length": "Long",
+		"questRequirements": [],
+		"skillRequirements": [
+			"25 Agility"
+		],
+		"reward": "5 QP"
+	},
+	{
+		"title": "The Great Brain Robbery",
+		"difficulty": "Experienced",
+		"length": "Medium",
+		"questRequirements": [
+			"Creature of Fenkenstrain",
+			"Cabin Fever"
+		],
+		"skillRequirements": [
+			"16 Crafting",
+			"30 Construction",
+			"50 Prayer"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Grim Tales",
+		"difficulty": "Master",
+		"length": "Medium",
+		"questRequirements": [
+			"Witch's House"
+		],
+		"skillRequirements": [
+			"45 Farming",
+			"52 Herblore",
+			"58 Thieving",
+			"59 Agility",
+			"71 Woodcutting"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "The Hand in the Sand",
+		"difficulty": "Intermediate",
+		"length": "Medium",
+		"questRequirements": [],
+		"skillRequirements": [
+			"17 Thieving",
+			"49 Crafting"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Haunted Mine",
+		"difficulty": "Experienced",
+		"length": "Medium-Long",
+		"questRequirements": [
+			"Priest in Peril"
+		],
+		"skillRequirements": [
+			"15 Agility",
+			"35 Crafting"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Hazeel Cult",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Heroes' Quest",
+		"difficulty": "Experienced",
+		"length": "Medium-Long",
+		"questRequirements": [
+			"Shield of Arrav",
+			"Lost City",
+			"Merlin's Crystal",
+			"Dragon Slayer",
+			"Druidic Ritual"
+		],
+		"skillRequirements": [],
+		"reward": "1 QP",
+		"qpRequirment": "55 QP"
+	},
+	{
+		"title": "Holy Grail",
+		"difficulty": "Intermediate",
+		"length": "Medium",
+		"questRequirements": [],
+		"skillRequirements": [
+			"20 Attack"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Horror from the Deep",
+		"difficulty": "Experienced",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [
+			"35 Agility"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Icthlarin's Little Helper",
+		"difficulty": "Intermediate",
+		"length": "Medium-Long",
+		"questRequirements": [
+			"Gertrude's Cat"
+		],
+		"skillRequirements": [],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Imp Catcher",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "1 QP"
+	},
+	{
+		"title": "In Aid of the Myreque",
+		"difficulty": "Intermediate",
+		"length": "Long",
+		"questRequirements": [
+			"In Search of the Myreque"
+		],
+		"skillRequirements": [
+			"25 Crafting",
+			"15 Mining",
+			"7 Magic"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "In Search of the Myreque",
+		"difficulty": "Intermediate",
+		"length": "Short",
+		"questRequirements": [
+			"Nature Spirit"
+		],
+		"skillRequirements": [
+			"25 Agility"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Jungle Potion",
+		"difficulty": "Novice",
+		"length": "Short-Medium",
+		"questRequirements": [],
+		"skillRequirements": [
+			"3 Herblore"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "King's Ransom",
+		"difficulty": "Experienced",
+		"length": "Medium",
+		"questRequirements": [
+			"Black Knights' Fortress",
+			"Holy Grail",
+			"Murder Mystery",
+			"One Small Favour"
+		],
+		"skillRequirements": [
+			"45 Magic",
+			"65 Defence"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "The Knight's Sword",
+		"difficulty": "Intermediate",
+		"length": "Medium",
+		"questRequirements": [],
+		"skillRequirements": [
+			"10 Mining"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Legends' Quest",
+		"difficulty": "Master",
+		"length": "Very Long",
+		"questRequirements": [
+			"Family Crest",
+			"Heroes' Quest",
+			"Shilo Village",
+			"Underground Pass",
+			"Waterfall Quest"
+		],
+		"skillRequirements": [
+			"50 Agility",
+			"50 Crafting",
+			"45 Herblore",
+			"56 Magic",
+			"52 Mining",
+			"42 Prayer",
+			"50 Smithing",
+			"50 Strength",
+			"50 Thieving",
+			"50 Woodcutting"
+		],
+		"reward": "4 QP",
+		"qpRequirment": "107 QP"
+	},
+	{
+		"title": "Lost City",
+		"difficulty": "Experienced",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [
+			"31 Crafting",
+			"36 Woodcutting"
+		],
+		"reward": "3 QP"
+	},
+	{
+		"title": "The Lost Tribe",
+		"difficulty": "Intermediate",
+		"length": "Medium",
+		"questRequirements": [
+			"Goblin Diplomacy",
+			"Rune Mysteries"
+		],
+		"skillRequirements": [
+			"13 Agility",
+			"13 Thieving",
+			"17 Mining"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Lunar Diplomacy",
+		"difficulty": "Experienced",
+		"length": "Long",
+		"questRequirements": [
+			"The Fremennik Trials",
+			"Lost City",
+			"Rune Mysteries",
+			"Shilo Village"
+		],
+		"skillRequirements": [
+			"61 Crafting",
+			"40 Defence",
+			"49 Firemaking",
+			"65 Magic",
+			"60 Mining",
+			"55 Wooductting"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Making Friends with My Arm",
+		"difficulty": "Master",
+		"length": "Medium",
+		"questRequirements": [
+			"My Arm's Big Adventure",
+			"Swan Song",
+			"Cold War",
+			"Romeo &amp; Juliet"
+		],
+		"skillRequirements": [
+			"66 Firemaking",
+			"72 Mining",
+			"35 Construction",
+			"68 Agility"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Making History",
+		"difficulty": "Intermediate",
+		"length": "Short-Long",
+		"questRequirements": [
+			"Priest in Peril",
+			"The Restless Ghost"
+		],
+		"skillRequirements": [],
+		"reward": "3 QP"
+	},
+	{
+		"title": "Merlin's Crystal",
+		"difficulty": "Intermediate",
+		"length": "Medium-Long",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "6 QP"
+	},
+	{
+		"title": "Misthalin Mystery",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Monk's Friend",
+		"difficulty": "Novice",
+		"length": "Very Short",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Monkey Madness I",
+		"difficulty": "Master",
+		"length": "Long",
+		"questRequirements": [
+			"Tree Gnome Village",
+			"The Grand Tree"
+		],
+		"skillRequirements": [],
+		"reward": "3 QP"
+	},
+	{
+		"title": "Monkey Madness II",
+		"difficulty": "Grandmaster",
+		"length": "Very Long",
+		"questRequirements": [
+			"Enlightened Journey",
+			"The Eyes of Glouphrie",
+			"Troll Stronghold",
+			"Watchtower"
+		],
+		"skillRequirements": [
+			"69 Slayer",
+			"70 Crafting",
+			"60 Hunter",
+			"55 Agility",
+			"55 Thieving"
+		],
+		"reward": "4 QP"
+	},
+	{
+		"title": "Mountain Daughter",
+		"difficulty": "Intermediate",
+		"length": "Medium",
+		"questRequirements": [],
+		"skillRequirements": [
+			"20 Agility"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Mourning's Ends Part I",
+		"difficulty": "Master",
+		"length": "Long-Very Long",
+		"questRequirements": [
+			"Roving Elves",
+			"Big Chompy Bird Hunting",
+			"Sheep Herder"
+		],
+		"skillRequirements": [
+			"60 Ranged",
+			"50 Thieving"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Mourning's Ends Part II",
+		"difficulty": "Master",
+		"length": "Very Long",
+		"questRequirements": [
+			"Mourning's Ends Part I"
+		],
+		"skillRequirements": [],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Murder Mystery",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "3 QP"
+	},
+	{
+		"title": "My Arm's Big Adventure",
+		"difficulty": "Intermediate",
+		"length": "Medium",
+		"questRequirements": [
+			"Eadgar's Ruse",
+			"The Feud",
+			"Jungle Potion"
+		],
+		"skillRequirements": [
+			"10 Woodcutting",
+			"29 Farming"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Nature Spirit",
+		"difficulty": "Novice",
+		"length": "Medium",
+		"questRequirements": [
+			"Priest in Peril",
+			"The Restless Ghost"
+		],
+		"skillRequirements": [],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Observatory Quest",
+		"difficulty": "Novice",
+		"length": "Short-Medium",
+		"questRequirements": [],
+		"skillRequirements": [
+			"10 Crafting"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Olaf's Quest",
+		"difficulty": "Intermediate",
+		"length": "Short-Long",
+		"questRequirements": [
+			"The Fremennik Trials"
+		],
+		"skillRequirements": [
+			"40 Firemaking",
+			"50 Woodcutting"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "One Small Favour",
+		"difficulty": "Experienced",
+		"length": "Very Long",
+		"questRequirements": [
+			"Rune Mysteries",
+			"Shilo Village"
+		],
+		"skillRequirements": [
+			"36 Agility",
+			"25 Crafting",
+			"18 Herblore",
+			"30 Smithing"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Pirates's Treasure",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Plague City",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Priest in Peril",
+		"difficulty": "Novice",
+		"length": "Medium",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Prince Ali Rescue",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "3 QP"
+	},
+	{
+		"title": "The Queen of Thieves",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [
+			"Client of Kourend"
+		],
+		"skillRequirements": [
+			"20 Thieving"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Rag and Bone Man",
+		"difficulty": "Novice",
+		"length": "Medium",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Rag and Bone Man II",
+		"difficulty": "Intermediate",
+		"length": "Long",
+		"questRequirements": [
+			"Rag and Bone Man"
+		],
+		"skillRequirements": [
+			"40 Slayer"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Ratcatchers",
+		"difficulty": "Intermediate",
+		"length": "Long-Very Long",
+		"questRequirements": [
+			"Icthlarin's Little Helper"
+		],
+		"skillRequirements": [],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Recipe for Disaster",
+		"difficulty": "Special",
+		"length": "Very Long",
+		"questRequirements": [
+			"RfD: Another Cook's Quest",
+			"RfD: Freeing Mountain Dwarf",
+			"RfD: Freeing Goblin Generals",
+			"RfD: Freeing Pirate Pete",
+			"RfD: Freeing Lumbridge Guide",
+			"RfD: Freeing Evil Dave",
+			"RfD: Freeing King Awowogei",
+			"RfD: Freezing Sir Amik Varze",
+			"RfD: Freeing Skrach Uglogwee",
+			"RfD: Defeating the Culinaromancer"
+		],
+		"skillRequirements": [],
+		"reward": "0 QP"
+	},
+	{
+		"title": "Recruitment Drive",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [
+			"Black Knights' Fortress",
+			"Druidic Ritual"
+		],
+		"skillRequirements": [],
+		"reward": "1 QP",
+		"qpRequirment": "12 QP"
+	},
+	{
+		"title": "Regicide",
+		"difficulty": "Master",
+		"length": "Long",
+		"questRequirements": [
+			"Underground Pass"
+		],
+		"skillRequirements": [
+			"56 Agility",
+			"10 Crafting"
+		],
+		"reward": "3 QP"
+	},
+	{
+		"title": "The Restless Ghost",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "1 QP"
+	},
+	{
+		"title": "RfD: Another Cook's Quest",
+		"difficulty": "Special",
+		"length": "Short",
+		"questRequirements": [
+			"Cook's Assistant"
+		],
+		"skillRequirements": [
+			"10 Cooking"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "RfD: Defeating the Culinaromancer",
+		"difficulty": "Special",
+		"length": "Short",
+		"questRequirements": [
+			"Desert Treasure",
+			"Horror from the Deep",
+			"RfD: Another Cook's Quest",
+			"RfD: Freeing Mountain Dwarf",
+			"RfD: Freeing Goblin Generals",
+			"RfD: Freeing Pirate Pete",
+			"RfD: Freeing Lumbridge Guide",
+			"RfD: Freeing Evil Dave",
+			"RfD: Freeing King Awowogei",
+			"RfD: Freezing Sir Amik Varze",
+			"RfD: Freeing Skrach Uglogwee"
+		],
+		"skillRequirements": [],
+		"reward": "1 QP",
+		"qpRequirment": "175 QP"
+	},
+	{
+		"title": "RfD: Freeing Evil Dave",
+		"difficulty": "Special",
+		"length": "Medium",
+		"questRequirements": [
+			"Gertrude's Cat",
+			"Shadow of the Storm"
+		],
+		"skillRequirements": [
+			"25 Cooking"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "RfD: Freeing Goblin Generals",
+		"difficulty": "Special",
+		"length": "Short",
+		"questRequirements": [
+			"Goblin Diplomacy"
+		],
+		"skillRequirements": [],
+		"reward": "1 QP"
+	},
+	{
+		"title": "RfD: Freeing King Awowogei",
+		"difficulty": "Special",
+		"length": "Medium-Long",
+		"questRequirements": [
+			"Monkey Madness I"
+		],
+		"skillRequirements": [
+			"70 Cooking",
+			"48 Agility"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "RfD: Freeing Lumbridge Guide",
+		"difficulty": "Special",
+		"length": "Short",
+		"questRequirements": [
+			"Big Chompy Bird Hunting",
+			"Biohazard",
+			"Demon Slayer",
+			"Murder Mystery",
+			"Nature Spirit",
+			"Witch's House"
+		],
+		"skillRequirements": [
+			"40 Cooking"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "RfD: Freeing Mountain Dwarf",
+		"difficulty": "Special",
+		"length": "Short",
+		"questRequirements": [
+			"Fishing Contest"
+		],
+		"skillRequirements": [],
+		"reward": "1 QP"
+	},
+	{
+		"title": "RfD: Freeing Pirate Pete",
+		"difficulty": "Special",
+		"length": "Medium",
+		"questRequirements": [],
+		"skillRequirements": [
+			"31 Cooking"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "RfD: Freeing Skrach Uglogwee",
+		"difficulty": "Special",
+		"length": "Medium",
+		"questRequirements": [
+			"Big Chompy Bird Hunting"
+		],
+		"skillRequirements": [
+			"41 Cooking",
+			"20 Firemaking"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "RfD: Freezing Sir Amik Varze",
+		"difficulty": "Special",
+		"length": "Medium",
+		"questRequirements": [
+			"Family Crest",
+			"Heroes' Quest",
+			"Shilo Village",
+			"Underground Pass",
+			"Waterfall Quest"
+		],
+		"skillRequirements": [],
+		"reward": "1 QP",
+		"qpRequirment": "107 QP"
+	},
+	{
+		"title": "Romeo &amp; Juliet",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "5 QP"
+	},
+	{
+		"title": "Roving Elves",
+		"difficulty": "Master",
+		"length": "Short-Medium",
+		"questRequirements": [
+			"Regicide",
+			"Waterfall Quest"
+		],
+		"skillRequirements": [
+			"56 Agility"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Royal Trouble",
+		"difficulty": "Experienced",
+		"length": "Medium",
+		"questRequirements": [
+			"Throne of Miscellania"
+		],
+		"skillRequirements": [
+			"40 Agility",
+			"35 Slayer"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Rum Deal",
+		"difficulty": "Experienced",
+		"length": "Medium",
+		"questRequirements": [
+			"Zogre Flesh Eaters",
+			"Priest in Peril"
+		],
+		"skillRequirements": [
+			"42 Crafting",
+			"50 Fishing",
+			"40 Farming",
+			"47 Prayer",
+			"42 Slayer"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Rune Mysteries",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Scorpion Catcher",
+		"difficulty": "Intermediate",
+		"length": "Short-Medium",
+		"questRequirements": [],
+		"skillRequirements": [
+			"31 Prayer"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Sea Slug",
+		"difficulty": "Intermediate",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [
+			"30 Firemaking"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Shades of Mort'ton",
+		"difficulty": "Intermediate",
+		"length": "Short",
+		"questRequirements": [
+			"Priest in Peril"
+		],
+		"skillRequirements": [
+			"20 Crafting",
+			"15 Herblore",
+			"5 Firemaking"
+		],
+		"reward": "3 QP"
+	},
+	{
+		"title": "Shadow of the Storm",
+		"difficulty": "Intermediate",
+		"length": "Medium",
+		"questRequirements": [
+			"The Golem",
+			"Demon Slayer"
+		],
+		"skillRequirements": [
+			"30 Crafting"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Sheep Herder",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "4 QP"
+	},
+	{
+		"title": "Sheep Shearer",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Shield of Arrav",
+		"difficulty": "Novice",
+		"length": "Medium",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Shilo Village",
+		"difficulty": "Experienced",
+		"length": "Medium-Long",
+		"questRequirements": [
+			"Jungle Potion"
+		],
+		"skillRequirements": [
+			"20 Crafting",
+			"32 Agility"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Sins of the Father",
+		"difficulty": "Master",
+		"length": "Long",
+		"questRequirements": [
+			"Vampyre Slayer",
+			"A Taste of Hope"
+		],
+		"skillRequirements": [
+			"62 Woodcutting",
+			"60 Fletching",
+			"56 Crafting",
+			"52 Agility",
+			"50 Slayer",
+			"50 Attack",
+			"49 Magic"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "The Slug Menace",
+		"difficulty": "Intermediate",
+		"length": "Medium-Long",
+		"questRequirements": [
+			"Wanted",
+			"Sea Slug"
+		],
+		"skillRequirements": [
+			"30 Crafting",
+			"30 Runecrafting",
+			"30 Slayer",
+			"30 Thieving"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Song of the Elves",
+		"difficulty": "Grandmaster",
+		"length": "Very Long",
+		"questRequirements": [
+			"Mourning's Ends Part II",
+			"Making History"
+		],
+		"skillRequirements": [
+			"70 Agility",
+			"70 Construction",
+			"70 Farming",
+			"70 Herblore",
+			"70 Hunter",
+			"70 Mining",
+			"70 Smithing",
+			"70 Woodcutting"
+		],
+		"reward": "4 QP"
+	},
+	{
+		"title": "A Soul's Bane",
+		"difficulty": "Novice",
+		"length": "Medium",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Spirits of the Elid",
+		"difficulty": "Intermediate",
+		"length": "Medium",
+		"questRequirements": [],
+		"skillRequirements": [
+			"33 Magic",
+			"37 Ranged",
+			"37 Mining",
+			"37 Thieving"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Swan Song",
+		"difficulty": "Master",
+		"length": "Medium",
+		"questRequirements": [
+			"One Small Favour",
+			"Garden of Tranquillity"
+		],
+		"skillRequirements": [
+			"66 Magic",
+			"62 Cooking",
+			"62 Fishing",
+			"45 Smithing",
+			"42 Firemaking",
+			"40 Crafting"
+		],
+		"reward": "2 QP",
+		"qpRequirment": "100 QP"
+	},
+	{
+		"title": "Tai Bwo Wannai Trio",
+		"difficulty": "Intermediate",
+		"length": "Long",
+		"questRequirements": [
+			"Jungle Potion"
+		],
+		"skillRequirements": [
+			"15 Agility",
+			"30 Cooking",
+			"5 Fishing"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "A Tail of Two Cats",
+		"difficulty": "Intermediate",
+		"length": "Long",
+		"questRequirements": [
+			"Icthlarin's Little Helper"
+		],
+		"skillRequirements": [],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Tale of the Righteous",
+		"difficulty": "Novice",
+		"length": "Medium",
+		"questRequirements": [
+			"Client of Kourend"
+		],
+		"skillRequirements": [
+			"16 Strength",
+			"10 Mining"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "A Taste of Hope",
+		"difficulty": "Experienced",
+		"length": "Long",
+		"questRequirements": [
+			"Darkness of Hallowvale"
+		],
+		"skillRequirements": [
+			"48 Crafting",
+			"45 Agility",
+			"40 Attack",
+			"40 Herblore",
+			"38 Slayer"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Tears of Guthix",
+		"difficulty": "Intermediate",
+		"length": "Very Short",
+		"questRequirements": [],
+		"skillRequirements": [
+			"49 Firemaking",
+			"20 Crafting",
+			"20 Mining"
+		],
+		"reward": "1 QP",
+		"qpRequirment": "43 QP"
+	},
+	{
+		"title": "Temple of Ikov",
+		"difficulty": "Experienced",
+		"length": "Medium",
+		"questRequirements": [],
+		"skillRequirements": [
+			"42 Thieving",
+			"40 Ranged"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Throne of Miscellania",
+		"difficulty": "Special",
+		"length": "Medium",
+		"questRequirements": [
+			"Heroes' Quest",
+			"The Fremennik Trials"
+		],
+		"skillRequirements": [],
+		"reward": "1 QP"
+	},
+	{
+		"title": "The Tourist Trap",
+		"difficulty": "Intermediate",
+		"length": "Medium",
+		"questRequirements": [],
+		"skillRequirements": [
+			"10 Fletching",
+			"20 Smithing"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Tower of Life",
+		"difficulty": "Novice",
+		"length": "Medium",
+		"questRequirements": [],
+		"skillRequirements": [
+			"10 Construction"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Tree Gnome Village",
+		"difficulty": "Intermediate",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Tribal Totem",
+		"difficulty": "Intermediate",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [
+			"21 Thieving"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Troll Romance",
+		"difficulty": "Experienced",
+		"length": "Medium",
+		"questRequirements": [
+			"Troll Stronghold"
+		],
+		"skillRequirements": [
+			"28 Agility"
+		],
+		"reward": "2 QP"
+	},
+	{
+		"title": "Troll Stronghold",
+		"difficulty": "Experienced",
+		"length": "Short-Medium",
+		"questRequirements": [
+			"Death Plateau"
+		],
+		"skillRequirements": [
+			"15 Agility"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Underground Pass",
+		"difficulty": "Experienced",
+		"length": "Long",
+		"questRequirements": [
+			"Biohazard"
+		],
+		"skillRequirements": [
+			"25 Ranged"
+		],
+		"reward": "5 QP"
+	},
+	{
+		"title": "Vampyre Slayer",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "3 QP"
+	},
+	{
+		"title": "Wanted!",
+		"difficulty": "Intermediate",
+		"length": "Long",
+		"questRequirements": [
+			"Recruitment Drive",
+			"The Lost Tribe",
+			"Priest in Peril"
+		],
+		"skillRequirements": [],
+		"reward": "1 QP",
+		"qpRequirment": "32 QP"
+	},
+	{
+		"title": "Watchtower",
+		"difficulty": "Intermediate",
+		"length": "Long",
+		"questRequirements": [],
+		"skillRequirements": [
+			"15 Magic",
+			"15 Thieving",
+			"25 Agility",
+			"14 Herblore",
+			"40 Mining"
+		],
+		"reward": "4 QP"
+	},
+	{
+		"title": "Waterfall Quest",
+		"difficulty": "Intermediate",
+		"length": "Medium",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "1 QP"
+	},
+	{
+		"title": "What Lies Below",
+		"difficulty": "Intermediate",
+		"length": "Short-Medium",
+		"questRequirements": [
+			"Rune Mysteries"
+		],
+		"skillRequirements": [
+			"35 Runecrafting",
+			"42 Mining"
+		],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Witch's House",
+		"difficulty": "Intermediate",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "4 QP"
+	},
+	{
+		"title": "Witch's Potion",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "1 QP"
+	},
+	{
+		"title": "X Marks the Spot",
+		"difficulty": "Novice",
+		"length": "Short",
+		"questRequirements": [],
+		"skillRequirements": [],
+		"reward": "1 QP"
+	},
+	{
+		"title": "Zogre Flesh Eaters",
+		"difficulty": "Intermediate",
+		"length": "Medium",
+		"questRequirements": [
+			"Big Chompy Bird Hunting",
+			"Jungle Potion"
+		],
+		"skillRequirements": [
+			"4 Smithing",
+			"8 Herblore",
+			"30 Ranged"
+		],
+		"reward": "1 QP"
+	}
+]
