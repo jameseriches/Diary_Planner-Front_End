@@ -1,7 +1,8 @@
-import React, {useContext} from 'react'
+import React, {useContext} from 'react';
 
-import {SkillsDispatchContext} from '../../context/SkillsContext'
-import {SkillsStateContext} from '../../context/SkillsContext'
+import {SkillsDispatchContext} from '../../context/SkillsContext';
+import {SkillsStateContext} from '../../context/SkillsContext';
+import { Grid } from 'semantic-ui-react';
 
 function Skills() {
   const skillDispatch = useContext(SkillsDispatchContext)
@@ -16,9 +17,11 @@ function Skills() {
   }
   
   return (
-    <div className="">
-      <div data-name="row1" className= "skill_row">
-        <div data-name="cell1" className="cell_one">
+    <Grid columns={3} stackable={true} >
+    
+    
+      <Grid.Row>
+        <Grid.Column >
             <img className="skill-img" src="https://oldschool.tools/images/skills/attack.png" alt="attack"/>
             <input className="skill_input"
                 max={99}
@@ -27,8 +30,8 @@ function Skills() {
                 onChange={e => handleChange('attack', e.target.value)} 
                 type='number'
             />
-        </div>
-        <div data-name="cell2" className="cell_two">
+        </Grid.Column>
+        <Grid.Column >
             <img className="skill-img" src="https://oldschool.tools/images/skills/hitpoints.png" alt="hitpoints"/>
             <input className="skill_input" 
                 max={99}
@@ -37,8 +40,8 @@ function Skills() {
                 onChange={e => handleChange('hitpoints', e.target.value)} 
                 type='number'
             />
-        </div>
-        <div data-name="cell3" className="cell_three">
+        </Grid.Column>
+        <Grid.Column>
             <img className="skill-img" src="https://oldschool.tools/images/skills/mining.png" alt="mining"/>
             <input className="skill_input"
                 max={99} 
@@ -47,12 +50,12 @@ function Skills() {
                 onChange={e => handleChange('mining', e.target.value)} 
                 type='number'
             />
-        </div>
+        </Grid.Column>
 
-        <hr></hr>
-      </div>
-      <div data-name="row2" className= "skill_row">
-        <div data-name="cell1" className="cell_one">
+
+      </Grid.Row>
+      <Grid.Row>
+        <Grid.Column >
             <img className="skill-img" src="https://oldschool.tools/images/skills/strength.png" alt="strength"/>
             <input className="skill_input"
                 max={99} 
@@ -61,8 +64,8 @@ function Skills() {
                 onChange={e => handleChange('strength', e.target.value)} 
                 type='number'
             />
-        </div>
-        <div data-name="cell2" className="cell_two">
+        </Grid.Column>
+        <Grid.Column >
             <img className="skill-img" src="https://oldschool.tools/images/skills/agility.png" alt="agility"/>
             <input className="skill_input"
                 max={99} 
@@ -71,8 +74,8 @@ function Skills() {
                 onChange={e => handleChange('agility', e.target.value)} 
                 type='number'
             />
-        </div>
-        <div data-name="cell3" className="cell_three">
+        </Grid.Column>
+        <Grid.Column>
             <img className="skill-img" src="https://oldschool.tools/images/skills/smithing.png" alt="smithing"/>
             <input className="skill_input"
                 max={99} 
@@ -81,11 +84,11 @@ function Skills() {
                 onChange={e => handleChange('smithing', e.target.value)} 
                 type='number'
             />
-        </div>
-        <hr></hr>
-      </div>
-      <div data-name="row3" className= "skill_row">
-        <div data-name="cell1" className="cell_one">
+        </Grid.Column>
+
+      </Grid.Row>
+      <Grid.Row>
+        <Grid.Column >
             <img className="skill-img" src="https://oldschool.tools/images/skills/defence.png" alt="defence"/>
             <input className="skill_input"
                 max={99} 
@@ -94,8 +97,8 @@ function Skills() {
                 onChange={e => handleChange('defence', e.target.value)} 
                 type='number'
             />
-        </div>
-        <div data-name="cell2" className="cell_two">
+        </Grid.Column>
+        <Grid.Column >
             <img className="skill-img" src="https://oldschool.tools/images/skills/herblore.png" alt="herblore"/>
             <input className="skill_input"
                 max={99} 
@@ -104,8 +107,8 @@ function Skills() {
                 onChange={e => handleChange('herblore', e.target.value)} 
                 type='number'
             />
-        </div>
-        <div data-name="cell3" className="cell_three">
+        </Grid.Column>
+        <Grid.Column>
             <img className="skill-img" src="https://oldschool.tools/images/skills/fishing.png" alt="fishing"/>
             <input className="skill_input"
                 max={99} 
@@ -114,11 +117,11 @@ function Skills() {
                 onChange={e => handleChange('fishing', e.target.value)} 
                 type='number'
             />
-        </div>
-        <hr></hr>
-      </div>
-      <div data-name="row4" className= "skill_row">
-        <div data-name="cell1" className="cell_one">
+        </Grid.Column>
+
+      </Grid.Row>
+      <Grid.Row>
+        <Grid.Column >
             <img className="skill-img" src="https://oldschool.tools/images/skills/ranged.png" alt="ranged"/>
             <input className="skill_input"
                 max={99} 
@@ -127,8 +130,8 @@ function Skills() {
                 onChange={e => handleChange('ranged', e.target.value)} 
                 type='number'
             />
-        </div>
-        <div data-name="cell2" className="cell_two">
+        </Grid.Column>
+        <Grid.Column >
             <img className="skill-img" src="https://oldschool.tools/images/skills/thieving.png" alt="thieving"/>
             <input className="skill_input"
                 max={99} 
@@ -137,8 +140,8 @@ function Skills() {
                 onChange={e => handleChange('thieving', e.target.value)} 
                 type='number'
             />
-        </div>
-        <div data-name="cell3" className="cell_three">
+        </Grid.Column>
+        <Grid.Column>
             <img className="skill-img" src="https://oldschool.tools/images/skills/cooking.png" alt="cooking"/>
             <input className="skill_input"
                 max={99} 
@@ -147,11 +150,11 @@ function Skills() {
                 onChange={e => handleChange('cooking', e.target.value)} 
                 type='number'
             />
-        </div>
-        <hr></hr>
-      </div>
-      <div data-name="row5" className= "skill_row">
-        <div data-name="cell1" className="cell_one">
+        </Grid.Column>
+
+      </Grid.Row>
+      <Grid.Row>
+        <Grid.Column >
             <img className="skill-img" src="https://oldschool.tools/images/skills/prayer.png" alt="prayer"/>
             <input className="skill_input"
                 max={99} 
@@ -160,8 +163,8 @@ function Skills() {
                 onChange={e => handleChange('prayer', e.target.value)} 
                 type='number'
             />
-        </div>
-        <div data-name="cell2" className="cell_two">
+        </Grid.Column>
+        <Grid.Column >
             <img className="skill-img" src="https://oldschool.tools/images/skills/crafting.png" alt="crafting"/>
             <input className="skill_input"
                 max={99} 
@@ -170,8 +173,8 @@ function Skills() {
                 onChange={e => handleChange('crafting', e.target.value)} 
                 type='number'
             />
-        </div>
-        <div data-name="cell3" className="cell_three">
+        </Grid.Column>
+        <Grid.Column>
             <img className="skill-img" src="https://oldschool.tools/images/skills/firemaking.png" alt="firemaking"/>
             <input className="skill_input"
                 max={99} 
@@ -180,11 +183,11 @@ function Skills() {
                 onChange={e => handleChange('firemaking', e.target.value)} 
                 type='number'
             />
-        </div>
-        <hr></hr>
-      </div>
-      <div data-name="row6" className= "skill_row">
-        <div data-name="cell1" className="cell_one">
+        </Grid.Column>
+
+      </Grid.Row>
+      <Grid.Row>
+        <Grid.Column >
             <img className="skill-img" src="https://oldschool.tools/images/skills/magic.png" alt="magic"/>
             <input className="skill_input"
                 max={99} 
@@ -193,8 +196,8 @@ function Skills() {
                 onChange={e => handleChange('magic', e.target.value)} 
                 type='number'
             />
-        </div>
-        <div data-name="cell2" className="cell_two">
+        </Grid.Column>
+        <Grid.Column >
             <img className="skill-img" src="https://oldschool.tools/images/skills/fletching.png" alt="fletching"/>
             <input className="skill_input"
                 max={99} 
@@ -203,8 +206,8 @@ function Skills() {
                 onChange={e => handleChange('fletching', e.target.value)} 
                 type='number'
             />
-        </div>
-        <div data-name="cell3" className="cell_three">
+        </Grid.Column>
+        <Grid.Column>
             <img className="skill-img" src="https://oldschool.tools/images/skills/woodcutting.png" alt="woodcutting"/>
             <input className="skill_input"
                 max={99} 
@@ -213,11 +216,11 @@ function Skills() {
                 onChange={e => handleChange('woodcutting', e.target.value)} 
                 type='number'
             />
-        </div>
-        <hr></hr>
-      </div>
-      <div data-name="row7" className= "skill_row">
-        <div data-name="cell1" className="cell_one">
+        </Grid.Column>
+
+      </Grid.Row>
+      <Grid.Row>
+        <Grid.Column >
             <img className="skill-img" src="https://oldschool.tools/images/skills/runecrafting.png" alt="runecrafting"/>
             <input className="skill_input"
                 max={99} 
@@ -226,8 +229,8 @@ function Skills() {
                 onChange={e => handleChange('runecrafting', e.target.value)} 
                 type='number'
             />
-        </div>
-        <div data-name="cell2" className="cell_two">
+        </Grid.Column>
+        <Grid.Column >
             <img className="skill-img" src="https://oldschool.tools/images/skills/slayer.png" alt="slayer"/>
             <input className="skill_input"
                 max={99} 
@@ -236,8 +239,8 @@ function Skills() {
                 onChange={e => handleChange('slayer', e.target.value)} 
                 type='number'
             />
-        </div>
-        <div data-name="cell3" className="cell_three">
+        </Grid.Column>
+        <Grid.Column>
             <img className="skill-img" src="https://oldschool.tools/images/skills/farming.png" alt="farming"/>
             <input className="skill_input"
                 max={99} 
@@ -246,11 +249,11 @@ function Skills() {
                 onChange={e => handleChange('farming', e.target.value)} 
                 type='number'
             />
-        </div>
-        <hr></hr>
-      </div>
-      <div data-name="row8" className= "skill_row">
-        <div data-name="cell1" className="cell_one">
+        </Grid.Column>
+
+      </Grid.Row>
+      <Grid.Row>
+        <Grid.Column >
             <img className="skill-img" src="https://oldschool.tools/images/skills/construction.png" alt="construction"/>
             <input className="skill_input"
                 max={99} 
@@ -259,8 +262,8 @@ function Skills() {
                 onChange={e => handleChange('construction', e.target.value)} 
                 type='number'
             />
-        </div>
-        <div data-name="cell2" className="cell_two">
+        </Grid.Column>
+        <Grid.Column >
             <img className="skill-img" src="https://oldschool.tools/images/skills/hunter.png" alt="hunter"/>
             <input className="skill_input"
                 max={99} 
@@ -269,10 +272,12 @@ function Skills() {
                 onChange={e => handleChange('hunter', e.target.value)} 
                 type='number'
             />
-        </div>
-      </div>
+        </Grid.Column>
+        <Grid.Column ></Grid.Column>
+      </Grid.Row>
 
-    </div>
+    
+      </Grid>
   )
 }
 
